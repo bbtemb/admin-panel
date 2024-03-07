@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "ed",
+      "email": "ssd@a.test",
+      "children": true,
+      "permissions": false,
+      "id": "f01d"
+    },
+    {
+      "name": "HJOp",
+      "email": "ale@test.com",
+      "children": true,
+      "permissions": false,
+      "id": "33ce"
+    },
+    {
+      "id": "a822",
+      "name": "alelaew",
+      "email": "m@trs.c",
+      "children": true,
+      "permissions": false
+    }
+  ]
+}

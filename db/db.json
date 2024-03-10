@@ -1,24 +1,31 @@
 {
   "users": [
     {
-      "name": "ed",
-      "email": "ssd@a.test",
-      "children": true,
-      "permissions": false,
-      "id": "f01d"
+      "id": "8750",
+      "name": "Александр",
+      "email": "alexandr@gmail.com",
+      "children": false,
+      "permissions": false
     },
     {
-      "name": "HJOp",
-      "email": "ale@test.com",
-      "children": true,
-      "permissions": false,
-      "id": "33ce"
+      "id": "b97d",
+      "name": "Vlad",
+      "email": "vlad@gmail.com",
+      "children": false,
+      "permissions": false
     },
     {
-      "id": "a822",
-      "name": "alelaew",
-      "email": "m@trs.c",
+      "name": "Eugene",
+      "email": "eugene@gmail.com",
       "children": true,
+      "permissions": false,
+      "id": "6bc7"
+    },
+    {
+      "id": "1bb9",
+      "name": "Michael",
+      "email": "Michael@gmail.com",
+      "children": false,
       "permissions": false
     }
   ]
